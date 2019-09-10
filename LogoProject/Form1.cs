@@ -47,6 +47,9 @@ namespace LogoProject
             g.DrawString("V", drawFont, drawBrush, 200, 150);
             g.DrawString("Off The Wall", drawFont, drawBrush, 50, 300);
 
+            //This is a test comment boi
+
+
         }
     }
 }
